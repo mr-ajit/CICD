@@ -1,0 +1,2 @@
+ip add
+hostname
